@@ -1,0 +1,15 @@
+C:\Users\fato\Desktop\Yazılım\C#\BookCaseProject\BookCaseProject\bin\Debug\net6.0\BookCaseProject.exe
+C:\Users\fato\Desktop\Yazılım\C#\BookCaseProject\BookCaseProject\bin\Debug\net6.0\BookCaseProject.deps.json
+C:\Users\fato\Desktop\Yazılım\C#\BookCaseProject\BookCaseProject\bin\Debug\net6.0\BookCaseProject.runtimeconfig.json
+C:\Users\fato\Desktop\Yazılım\C#\BookCaseProject\BookCaseProject\bin\Debug\net6.0\BookCaseProject.dll
+C:\Users\fato\Desktop\Yazılım\C#\BookCaseProject\BookCaseProject\bin\Debug\net6.0\BookCaseProject.pdb
+C:\Users\fato\Desktop\Yazılım\C#\BookCaseProject\BookCaseProject\obj\Debug\net6.0\BookCaseProject.csproj.AssemblyReference.cache
+C:\Users\fato\Desktop\Yazılım\C#\BookCaseProject\BookCaseProject\obj\Debug\net6.0\BookCaseProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fato\Desktop\Yazılım\C#\BookCaseProject\BookCaseProject\obj\Debug\net6.0\BookCaseProject.AssemblyInfoInputs.cache
+C:\Users\fato\Desktop\Yazılım\C#\BookCaseProject\BookCaseProject\obj\Debug\net6.0\BookCaseProject.AssemblyInfo.cs
+C:\Users\fato\Desktop\Yazılım\C#\BookCaseProject\BookCaseProject\obj\Debug\net6.0\BookCaseProject.csproj.CoreCompileInputs.cache
+C:\Users\fato\Desktop\Yazılım\C#\BookCaseProject\BookCaseProject\obj\Debug\net6.0\BookCaseProject.dll
+C:\Users\fato\Desktop\Yazılım\C#\BookCaseProject\BookCaseProject\obj\Debug\net6.0\refint\BookCaseProject.dll
+C:\Users\fato\Desktop\Yazılım\C#\BookCaseProject\BookCaseProject\obj\Debug\net6.0\BookCaseProject.pdb
+C:\Users\fato\Desktop\Yazılım\C#\BookCaseProject\BookCaseProject\obj\Debug\net6.0\BookCaseProject.genruntimeconfig.cache
+C:\Users\fato\Desktop\Yazılım\C#\BookCaseProject\BookCaseProject\obj\Debug\net6.0\ref\BookCaseProject.dll
